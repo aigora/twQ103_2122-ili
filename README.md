@@ -1,11 +1,11 @@
-# [Título del trabajo]
+# ESCAPASIPUEDES
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Nuestro trabajo consiste en un scaperoom en el cual, por cada prueba que se supere, tendrás que elegir 1 de tres premios ofrecidos hasta llegar a la gran puerta final donde al superar la gran prueba, tendrás que resolver un acertijo para conseguir el premio valorado en 100000 euros.
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Isabel Vega (isabelvega1), Laura Navaro (lauranbriz), Itziar Saldaña (itziarsg).
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+(por determinar)
