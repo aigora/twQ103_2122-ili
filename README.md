@@ -1,7 +1,6 @@
 # ESCAPASIPUEDES
 
-Nuestro trabajo consiste en un scaperoom en el cual, por cada prueba que se supere, tendrás que elegir 1 de tres premios ofrecidos hasta llegar a la gran puerta final donde al superar la gran prueba, tendrás que resolver un acertijo para conseguir el premio valorado en 100000 euros.
-
+Te despiertas y no te acuerdas de nada, lo único que tienes es una carta en tu bolsillo que te dice la ruta que tienes que seguir por Madrid donde tendrás que resolver toda serie de acertijos relacionados contigo, para llevarte hasta un lugar donde te contaran toda la verdad 
 ## Integrantes del equipo
 
 Isabel Vega (isabelvega1), Laura Navaro (lauranbriz), Itziar Saldaña (itziarsg).
